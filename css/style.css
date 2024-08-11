@@ -1,3 +1,21 @@
 body {
     font-family: 'Muller', sans-serif;
 }
+
+.item__size{
+    font-size: 15px;
+}
+
+.carousel_background{
+    background-color: #7A01FF;
+}
+
+.carousel__text{
+    margin-top: 15px;
+    margin-bottom: 12%;
+    padding-right: 60%;
+    text-align: start;
+    font-size: 35px;
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+}
